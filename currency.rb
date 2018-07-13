@@ -2,7 +2,7 @@
 
 
 
-def use_to_eur(dollar_amount)
+def usd_to_eur(dollar_amount)
   
   
   
